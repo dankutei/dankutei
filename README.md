@@ -1,5 +1,5 @@
 - 
-# 👋 Hi, I'm Dankuts | SOC Analyst
+# 👋 Hi, I'm Daniel kutei | SOC Analyst
 🔒 Threat Hunter | Incident Responder | SOC Automation Specialist
 
 ### 🛡️ About Me
